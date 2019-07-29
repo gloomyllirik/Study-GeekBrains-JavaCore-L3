@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c14b238-0dd3-404f-ac6e-a9f90c6c6e3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lesson02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson05/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lesson06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="80" lean-forward="true" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson06Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="60" lean-forward="true" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Lesson06.java" />
+        <option value="$PROJECT_DIR$/Lesson07/src/Lesson_6/Server/MainServer.java" />
+        <option value="$PROJECT_DIR$/src/Lesson06Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="165" />
+    <option name="width" value="1423" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lesson06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson06" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson06" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson06" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson06" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_6" type="462c0819:PsiDirectoryNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson06" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_6" type="462c0819:PsiDirectoryNode" />
+              <item name="Server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson07" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Lesson06Test.checkException">
+    <configuration name="Lesson06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson06" />
+      <module name="Lesson06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson06Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson06" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lesson06Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson06Test.checkException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson06" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lesson06Test" />
+      <option name="METHOD_NAME" value="checkException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson06Test.testcheckMass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson06" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lesson06Test" />
+      <option name="METHOD_NAME" value="testcheckMass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson06Test.testcutMass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson06" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lesson06Test" />
+      <option name="METHOD_NAME" value="testcutMass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Lesson06Test.checkException" />
+        <item itemvalue="JUnit.Lesson06Test" />
+        <item itemvalue="JUnit.Lesson06Test.testcheckMass" />
+        <item itemvalue="JUnit.Lesson06Test.testcutMass" />
+        <item itemvalue="Application.Lesson06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c14b238-0dd3-404f-ac6e-a9f90c6c6e3d" name="Default Changelist" comment="" />
+      <created>1564389272330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564389272330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Lesson06Test_testcheckMass - 2019.07.29 at 14h 08m 08s.xml">
+      <configuration name="Lesson06Test.testcheckMass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson06Test_testcheckMass - 2019.07.29 at 14h 08m 29s.xml">
+      <configuration name="Lesson06Test.testcheckMass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson06Test_testcheckMass - 2019.07.29 at 14h 09m 43s.xml">
+      <configuration name="Lesson06Test.testcheckMass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson06Test_testcheckMass - 2019.07.29 at 14h 11m 20s.xml">
+      <configuration name="Lesson06Test.testcheckMass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson06Test_testcheckMass - 2019.07.29 at 14h 11m 52s.xml">
+      <configuration name="Lesson06Test.testcheckMass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson06Test_testcheckMass - 2019.07.29 at 14h 13m 30s.xml">
+      <configuration name="Lesson06Test.testcheckMass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson06Test_testcutMass - 2019.07.29 at 14h 13m 36s.xml">
+      <configuration name="Lesson06Test.testcutMass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson06Test_testcheckMass - 2019.07.29 at 14h 13m 40s.xml">
+      <configuration name="Lesson06Test.testcheckMass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson06Test - 2019.07.29 at 14h 13m 44s.xml">
+      <configuration name="Lesson06Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson06Test_checkException - 2019.07.29 at 14h 27m 56s.xml">
+      <configuration name="Lesson06Test.checkException" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32950193" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32950193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="418" selection-start-line="418" selection-end-line="418" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson07/src/Lesson_6/Client/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson07/src/Lesson_6/Server/StartServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson07/src/Lesson_6/Server/MainServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson07/src/Lesson_6/Server/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1099" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson07/src/Lesson_6/Server/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson07/22052019_chat_new.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson06Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="60" lean-forward="true" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="80" lean-forward="true" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
